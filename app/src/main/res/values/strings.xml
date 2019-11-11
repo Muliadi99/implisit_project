@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">implisitIntens</string>
+    <string name="edittext_uri">https://siakad.unikama.ac.id/</string>
+    <string name="button_website">Open_website</string>
+</resources>
